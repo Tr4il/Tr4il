@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Tr4il
 - 👀 I’m interested in everything. Literally everything. I have issues.
 - 🌱 I’m currently learning all sorts of things, but I'm not necessarily a programmer. I’m mostly a tinkerer. 
-- 📫 How to reach me :
--     dynamikx@protonmail.com
